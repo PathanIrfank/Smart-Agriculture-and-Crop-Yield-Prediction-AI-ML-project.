@@ -1,0 +1,5 @@
+temperature,rainfall,humidity,soil_ph,soil_type,fertilizer,crop_type,yield
+25,150,65,6.5,loamy,100,wheat,2800
+28,200,70,7.0,clay,120,rice,3200
+22,120,60,6.0,sandy,90,corn,2500
+30,180,75,7.2,loamy,110,wheat,2900
